@@ -1,0 +1,6 @@
+echo "*.pyc" > .gitignore
+echo ".env" >> .gitignore
+echo ".venv/" >> .gitignore
+echo ".idea/" >> .gitignore
+echo "okta_profile_updates.xlsx" >> .gitignore
+echo "old_okta_metrics.py" >> .gitignore
