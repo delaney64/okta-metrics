@@ -6,7 +6,7 @@ from collections import Counter
 import os
 
 # ── CONFIG ──────────────────────────────────────────
-OKTA_DOMAIN = "https://usac-admin.okta.com"   # <-- replace this
+OKTA_DOMAIN = ""   # <-- replace this
 API_TOKEN   = ""             # <-- replace this
 # ────────────────────────────────────────────────────
 
